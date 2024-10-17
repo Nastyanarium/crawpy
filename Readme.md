@@ -1,4 +1,4 @@
-# Web Crawler
+# Crawpy
 
 This project is a web crawler built in Python that extracts data from web pages based on specified tasks and extractors. The crawler supports templates for dynamic URL generation and can handle both JSON and YAML task definitions.
 
