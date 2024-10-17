@@ -1,0 +1,7 @@
+name: "flow"
+flows:
+  - task: "github_issues.yaml"
+    output: "result.json"
+    childs:
+      - task: "github_issue.yaml"
+        output: "result1.json"

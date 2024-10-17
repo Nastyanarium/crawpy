@@ -1,0 +1,16 @@
+name: github issue data
+url: "https://github.com/{url}"
+default_url: "https://github.com/microsoft/vscode/issues/170789"
+extractors:
+  - name: comments
+    selector: div.comment
+    attributes:
+      - name: author
+        selector: .author
+        attribute: ""
+      - name: text
+        selector: .comment-body
+        attribute: ""
+      - name: time
+        selector: relative-time.no-wrap
+        attribute: datetime

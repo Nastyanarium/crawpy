@@ -1,0 +1,17 @@
+name: github issues
+url: https://github.com/microsoft/vscode/issues?page=1
+extractors:
+  - name: issues
+    selector: .Box-row
+    attributes:
+      - name: id
+        attribute: id
+      - name: title
+        selector: .Link--primary
+      - name: url
+        selector: .Link--primary
+        attribute: href
+      - name: tag
+        selector: .IssueLabel
+        attribute: data-name
+        many: true
