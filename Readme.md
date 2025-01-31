@@ -33,7 +33,7 @@ python3 main.py <task_file>
 
 Example
 ```bash
-python main.py flow.yml
+python3 main.py flow.yml
 ```
 
 
