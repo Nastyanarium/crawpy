@@ -1,17 +1,12 @@
 name: github issues
-url: https://github.com/microsoft/vscode/issues?page=1
+url: https://github.com/microsoft/vscode/issues?page={page 2}
 extractors:
   - name: issues
-    selector: .Box-row
+    selector: '[class*="IssueRow-module__row"]'
     attributes:
-      - name: id
-        attribute: id
       - name: title
-        selector: .Link--primary
+        selector: '[class*="TitleHeader-module"]'
+        attribute: ""
       - name: url
-        selector: .Link--primary
+        selector: '[class*="TitleHeader-module"]'
         attribute: href
-      - name: tag
-        selector: .IssueLabel
-        attribute: data-name
-        many: true
