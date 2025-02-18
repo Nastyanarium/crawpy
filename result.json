@@ -1,76 +1,12 @@
-
-{"id": "issue_190499", "title": "Free port quick fix does not work on Windows", "url": "/microsoft/vscode/issues/190499", "tag": "bug"}
-{"id": "issue_190498", "title": "Style fixes for toggled state action bar buttons", "url": "/microsoft/vscode/issues/190498", "tag": "polish"}
-{"id": "issue_190497", "title": "Terminal not working right ", "url": "/microsoft/vscode/issues/190497", "tag": ""}
-{"id": "issue_190496", "title": "Problems with icons", "url": "/microsoft/vscode/issues/190496", "tag": ""}
-{"id": "issue_190495", "title": "stdout and stderr desynced in \"output\" and \"debug console\"", "url": "/microsoft/vscode/issues/190495", "tag": ""}
-{"id": "issue_190494", "title": "Editor Playground - Box Selection", "url": "/microsoft/vscode/issues/190494", "tag": ""}
-{"id": "issue_190488", "title": "experiences severe frame drops when not in full-screen mode. macOS Montery", "url": "/microsoft/vscode/issues/190488", "tag": "triage-needed"}
-{"id": "issue_190487", "title": "open editor", "url": "/microsoft/vscode/issues/190487", "tag": "info-needed"}
-{"id": "issue_190486", "title": "Set default git editor to VSCode in integrated terminal", "url": "/microsoft/vscode/issues/190486", "tag": ""}
-{"id": "issue_190484", "title": "Hover is too small for its content and resizes behave strangely", "url": "/microsoft/vscode/issues/190484", "tag": "important"}
-{"id": "issue_190483", "title": "No Source control \"discard changes\" confirmations (like no delete confirmation) ", "url": "/microsoft/vscode/issues/190483", "tag": ""}
-{"id": "issue_190481", "title": "asdf-vm", "url": "/microsoft/vscode/issues/190481", "tag": "*english-please"}
-{"id": "issue_190480", "title": "Terminal - Black Screen", "url": "/microsoft/vscode/issues/190480", "tag": ""}
-{"id": "issue_190479", "title": "> sign has accidentally replaced $ sign at cursor in terminal window of vs code. How can I get $ sign back at cursor", "url": "/microsoft/vscode/issues/190479", "tag": ""}
-{"id": "issue_190478", "title": "Go to symbol should include signature for languages that have function overloading.", "url": "/microsoft/vscode/issues/190478", "tag": "triage-needed"}
-{"id": "issue_190477", "title": "deite", "url": "/microsoft/vscode/issues/190477", "tag": "triage-needed"}
-{"id": "issue_190476", "title": "terminal working slow", "url": "/microsoft/vscode/issues/190476", "tag": ""}
-{"id": "issue_190474", "title": "MacOS M1 VScode Github copilot chat icon no show", "url": "/microsoft/vscode/issues/190474", "tag": "triage-needed"}
-{"id": "issue_190472", "title": "forever7", "url": "/microsoft/vscode/issues/190472", "tag": "triage-needed"}
-{"id": "issue_190471", "title": "Selected file support adjust border-top-width to make it more outstanding", "url": "/microsoft/vscode/issues/190471", "tag": ""}
-{"id": "issue_190469", "title": "A small suggestion involving UI", "url": "/microsoft/vscode/issues/190469", "tag": "triage-needed"}
-{"id": "issue_190468", "title": "lost title bar sometimes", "url": "/microsoft/vscode/issues/190468", "tag": ""}
-{"id": "issue_190464", "title": "Key modifier for selected text DnD.", "url": "/microsoft/vscode/issues/190464", "tag": ""}
-{"id": "issue_190463", "title": "Hello! Left and right edit scrolling is out of sync. ", "url": "/microsoft/vscode/issues/190463", "tag": "info-needed"}
-{"id": "issue_190460", "title": "Fix incorrect role for header", "url": "/microsoft/vscode/issues/190460", "tag": ""}
-{"id": "issue_190804", "title": "improper escaping in Markdown preview", "url": "/microsoft/vscode/issues/190804", "tag": ""}
-{"id": "issue_190803", "title": "Files not opening", "url": "/microsoft/vscode/issues/190803", "tag": "triage-needed"}
-{"id": "issue_190801", "title": "Batch set (or unset) multiple break-points based on a search-pattern", "url": "/microsoft/vscode/issues/190801", "tag": ""}
-{"id": "issue_190800", "title": "the error lines are taking longer when the error is fixed", "url": "/microsoft/vscode/issues/190800", "tag": ""}
-{"id": "issue_190799", "title": "Not Recognising .html file , instead recognising .htm file as .html file ", "url": "/microsoft/vscode/issues/190799", "tag": ""}
-{"id": "issue_190798", "title": "Lost filed all retrieve recover ", "url": "/microsoft/vscode/issues/190798", "tag": ""}
-{"id": "issue_190797", "title": "VS Code cannot access Extension Marketplace (vsassets.io)", "url": "/microsoft/vscode/issues/190797", "tag": ""}
-{"id": "issue_190795", "title": "FR: support key bindings outside VS Code", "url": "/microsoft/vscode/issues/190795", "tag": ""}
-{"id": "issue_190794", "title": "A11y_VisualStudioCodeClient_Problems Panel_Validate that Eslint populates the problems view_Status Messages: Voice Over is not announcing any State like expand or collapsed when user is pressing enter on Python button in problems panel.", "url": "/microsoft/vscode/issues/190794", "tag": ""}
-{"id": "issue_190793", "title": "TS Server fatal error:  Cannot read properties of undefined (reading 'charCount')", "url": "/microsoft/vscode/issues/190793", "tag": ""}
-{"id": "issue_190792", "title": "terminal ", "url": "/microsoft/vscode/issues/190792", "tag": ""}
-{"id": "issue_190791", "title": "No device section", "url": "/microsoft/vscode/issues/190791", "tag": "triage-needed"}
-{"id": "issue_190788", "title": "input box in jupyter in vscode", "url": "/microsoft/vscode/issues/190788", "tag": ""}
-{"id": "issue_190787", "title": "Material-UI website not loading", "url": "/microsoft/vscode/issues/190787", "tag": ""}
-{"id": "issue_190784", "title": "Allow for quickpick section header to have full height without a button", "url": "/microsoft/vscode/issues/190784", "tag": "feature-request"}
-{"id": "issue_190783", "title": "Lower case single-letter variables are forcibly autocompleted to upper case classes with the same name.", "url": "/microsoft/vscode/issues/190783", "tag": ""}
-{"id": "issue_190779", "title": "\"Create new integrated terminal (local)\" doesn't honor \"terminal.integrated.defaultProfile.*\"", "url": "/microsoft/vscode/issues/190779", "tag": ""}
-{"id": "issue_190778", "title": "Configuration option: Open files on the other tab group (when there are two tab groups)", "url": "/microsoft/vscode/issues/190778", "tag": "feature-request"}
-{"id": "issue_190774", "title": "Typescript server tries to read node_modules in parent directory", "url": "/microsoft/vscode/issues/190774", "tag": ""}
-{"id": "issue_190773", "title": "Markdown's Copy Image command is always in the command palette ", "url": "/microsoft/vscode/issues/190773", "tag": ""}
-{"id": "issue_190769", "title": "dragging a file to a markdown document will just insert the path", "url": "/microsoft/vscode/issues/190769", "tag": ""}
-{"id": "issue_190767", "title": "quick text search: show open files first", "url": "/microsoft/vscode/issues/190767", "tag": "feature-request"}
-{"id": "issue_190761", "title": "Extension description overflow in side-by-side panes", "url": "/microsoft/vscode/issues/190761", "tag": ""}
-{"id": "issue_190770", "title": "filepath links with '~' expand $USER instead of $HOME", "url": "/microsoft/vscode/issues/190770", "tag": "bug"}
-{"id": "issue_190756", "title": "Improve Notifications API for common UX dismissal", "url": "/microsoft/vscode/issues/190756", "tag": "api"}
-{"id": "issue_190804", "title": "improper escaping in Markdown preview", "url": "/microsoft/vscode/issues/190804", "tag": ""}
-{"id": "issue_190803", "title": "Files not opening", "url": "/microsoft/vscode/issues/190803", "tag": "triage-needed"}
-{"id": "issue_190801", "title": "Batch set (or unset) multiple break-points based on a search-pattern", "url": "/microsoft/vscode/issues/190801", "tag": ""}
-{"id": "issue_190800", "title": "the error lines are taking longer when the error is fixed", "url": "/microsoft/vscode/issues/190800", "tag": ""}
-{"id": "issue_190799", "title": "Not Recognising .html file , instead recognising .htm file as .html file ", "url": "/microsoft/vscode/issues/190799", "tag": ""}
-{"id": "issue_190798", "title": "Lost filed all retrieve recover ", "url": "/microsoft/vscode/issues/190798", "tag": ""}
-{"id": "issue_190797", "title": "VS Code cannot access Extension Marketplace (vsassets.io)", "url": "/microsoft/vscode/issues/190797", "tag": ""}
-{"id": "issue_190795", "title": "FR: support key bindings outside VS Code", "url": "/microsoft/vscode/issues/190795", "tag": ""}
-{"id": "issue_190794", "title": "A11y_VisualStudioCodeClient_Problems Panel_Validate that Eslint populates the problems view_Status Messages: Voice Over is not announcing any State like expand or collapsed when user is pressing enter on Python button in problems panel.", "url": "/microsoft/vscode/issues/190794", "tag": ""}
-{"id": "issue_190793", "title": "TS Server fatal error:  Cannot read properties of undefined (reading 'charCount')", "url": "/microsoft/vscode/issues/190793", "tag": ""}
-{"id": "issue_190792", "title": "terminal ", "url": "/microsoft/vscode/issues/190792", "tag": ""}
-{"id": "issue_190791", "title": "No device section", "url": "/microsoft/vscode/issues/190791", "tag": "triage-needed"}
-{"id": "issue_190788", "title": "input box in jupyter in vscode", "url": "/microsoft/vscode/issues/190788", "tag": ""}
-{"id": "issue_190787", "title": "Material-UI website not loading", "url": "/microsoft/vscode/issues/190787", "tag": ""}
-{"id": "issue_190784", "title": "Allow for quickpick section header to have full height without a button", "url": "/microsoft/vscode/issues/190784", "tag": "feature-request"}
-{"id": "issue_190783", "title": "Lower case single-letter variables are forcibly autocompleted to upper case classes with the same name.", "url": "/microsoft/vscode/issues/190783", "tag": ""}
-{"id": "issue_190779", "title": "\"Create new integrated terminal (local)\" doesn't honor \"terminal.integrated.defaultProfile.*\"", "url": "/microsoft/vscode/issues/190779", "tag": ""}
-{"id": "issue_190778", "title": "Configuration option: Open files on the other tab group (when there are two tab groups)", "url": "/microsoft/vscode/issues/190778", "tag": "feature-request"}
-{"id": "issue_190774", "title": "Typescript server tries to read node_modules in parent directory", "url": "/microsoft/vscode/issues/190774", "tag": ""}
-{"id": "issue_190773", "title": "Markdown's Copy Image command is always in the command palette ", "url": "/microsoft/vscode/issues/190773", "tag": ""}
-{"id": "issue_190769", "title": "dragging a file to a markdown document will just insert the path", "url": "/microsoft/vscode/issues/190769", "tag": ""}
-{"id": "issue_190767", "title": "quick text search: show open files first", "url": "/microsoft/vscode/issues/190767", "tag": "feature-request"}
-{"id": "issue_190761", "title": "Extension description overflow in side-by-side panes", "url": "/microsoft/vscode/issues/190761", "tag": ""}
-{"id": "issue_190770", "title": "filepath links with '~' expand $USER instead of $HOME", "url": "/microsoft/vscode/issues/190770", "tag": "bug"}
-{"id": "issue_190756", "title": "Improve Notifications API for common UX dismissal", "url": "/microsoft/vscode/issues/190756", "tag": "api"}
+{"title": "JavaScript comment continuation on enter false positive with \"//\" in string literals", "url": "/microsoft/vscode/issues/241125"}
+{"title": "Unable to Use CoPilot (current paid subscription)", "url": "/microsoft/vscode/issues/241122"}
+{"title": "Terminal got freeze every time after i open it", "url": "/microsoft/vscode/issues/241119"}
+{"title": "Theme Colors Keep Changing to Pastel Colors", "url": "/microsoft/vscode/issues/241113"}
+{"title": "sometimes rerun task action causes error, quick pick to show up", "url": "/microsoft/vscode/issues/241107"}
+{"title": "new Accessibility problem ", "url": "/microsoft/vscode/issues/241106"}
+{"title": "Some internationalised/localised strings are not used on the extension \"about\" page", "url": "/microsoft/vscode/issues/241105"}
+{"title": "[Fet] support copy from remote to remote/local machine", "url": "/microsoft/vscode/issues/241103"}
+{"title": "hand on Paste text in a js, ts, jsx, tsx file", "url": "/microsoft/vscode/issues/241101"}
+{"title": "Terminal suggest: Folders not being shown when files are requested", "url": "/microsoft/vscode/issues/241090"}
+{"title": "ChatParticipant UserAction events are missing results from mapped edit providers", "url": "/microsoft/vscode/issues/241089"}
+{"title": "Add LocalServerFlow in Microsoft Authentication for Seamless Login in Remote Environments", "url": "/microsoft/vscode/issues/241088"}
