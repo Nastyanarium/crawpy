@@ -1,0 +1,14 @@
+{
+	"name": "github issues",
+	"url": "https://github.com/microsoft/vscode/issues?page={page 1}",
+	"extractors": [
+		{
+			"name": "",
+			"selector": ".Box-row",
+			"attributes": [
+				{ "name": "title", "selector": ".Link--primary" },
+				{ "name": "url", "selector": ".Link--primary", "attribute": "href" }
+			]
+		}
+	]
+}
