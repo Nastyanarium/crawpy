@@ -41,40 +41,36 @@ python3 main.py flow.yml
 
 ```yaml
 name: github issues
-url: https://github.com/microsoft/vscode/issues?page=1
+url: https://github.com/microsoft/vscode/issues?page={page 2}
 extractors:
   - name: issues
-    selector: .Box-row
+    selector: '[class*="IssueRow-module__row"]'
     attributes:
-      - name: id
-        attribute: id
       - name: title
-        selector: .Link--primary
+        selector: '[class*="TitleHeader-module"]'
+        attribute: ""
       - name: url
-        selector: .Link--primary
+        selector: '[class*="TitleHeader-module"]'
         attribute: href
-      - name: tag
-        selector: .IssueLabel
-        attribute: data-name
-        many: true
 ```
 
 ```yaml
-name: github issue data
+name: github issue
 url: "https://github.com/{url}"
 default_url: "https://github.com/microsoft/vscode/issues/170789"
 extractors:
   - name: comments
-    selector: div.comment
+    selector: div[data-testid*="issue-body"],[data-testid*="comment-viewer-outer-box"]
     attributes:
       - name: author
-        selector: .author
+        selector: a[data-testid*="issue-body-header-author"],
+          a[data-testid*="avatar-link"]
         attribute: ""
       - name: text
-        selector: .comment-body
+        selector: '[data-testid*="markdown-body"]'
         attribute: ""
       - name: time
-        selector: relative-time.no-wrap
+        selector: relative-time[datetime]
         attribute: datetime
 ```
 
